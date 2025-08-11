@@ -1,5 +1,9 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+Kafi users ka kehna hai unka kaam slow sirf token ki wajah se ho raha hai ham unse bata de token tesla khud generate karta hai apko only 1-2 token hi generate karna hai baki ka sara kaam tesla ke server par hota hai.
+
+Fast booking ke liye aap se request hai fast gateway jaise E-Wallet ka istemal kare jiska result bahout fast hai.
+
 Regular version apk ko server par rakh dia gaya hai users download kar sakte hai aur token generate bhi kar sakte hai old koi bhi apk aap uninstall kar de aur jaha par token get karte hai waha par apk regular version par click kare aur apk download kar le.
 
 Adhar verified ID se aap only 12 ticket hi book kar sakte hai monthly 12 se jada ticket book karne ke liye irctc dwara yeh mandatory hai jis name par irctc id ki kyc verify hui hai wo passenger travel kare isliye apne irctc id ki monthly booking count jarur dekh len.
