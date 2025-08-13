@@ -1,5 +1,7 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+HDFC_DC from ipay ko fix kar dia gaya hai aap users apna card tetsing karke hi booking form hdfc dc ipay se lagaye
+
 Kafi users ka kehna hai unka kaam slow sirf token ki wajah se ho raha hai ham unse bata de token tesla khud generate karta hai apko only 1-2 token hi generate karna hai baki ka sara kaam tesla ke server par hota hai.
 
 Fast booking ke liye aap se request hai fast gateway jaise E-Wallet ka istemal kare jiska result bahout fast hai.
