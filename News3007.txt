@@ -1,5 +1,9 @@
 WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
 
+New Tesla token app server par daal dia gaya hai all users install kar sakte hai is app ko jab aap open karenge to apko ek button show hogi jisme apke token count show honge jab apko token send karna hoga ap only us button par click karenge aur apna tesla id enter karke token send kar sakte hai.
+
+Yadi apko client ip ka error aataa hai to aap usi button ko long press kar rakhe jab tak app auto close na ho jaye auto close ho jane ke baad aap usko open kare aur normally token generate aur get kare.
+
 HDFC_DC from ipay ko fix kar dia gaya hai aap users apna card tetsing karke hi booking form hdfc dc ipay se lagaye
 
 Kafi users ka kehna hai unka kaam slow sirf token ki wajah se ho raha hai ham unse bata de token tesla khud generate karta hai apko only 1-2 token hi generate karna hai baki ka sara kaam tesla ke server par hota hai.
