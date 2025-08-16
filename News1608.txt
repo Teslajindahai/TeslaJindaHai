@@ -1,0 +1,37 @@
+WelCome to Tesla Group — Where speed meets vision in the next-gen Tatkal journey.
+
+Updated apk token generator server par rakh dia gaya hai jo users chahe isko download and use kar sakte hai.
+
+Jab aap token generator open karenge to apko screen par hi ek button show hogi jisme apke generate hue token show karenge apka jab token generate ho jaye to us button par click kare aur apna tesla user id daal kar token post kar de.
+
+Yadi aap ko ip error aataa hai to aap usi button ko long press kare tab tak jab tak apk auto close auto restart na ho jaye auto restart ke baad aap dobara asaani se login kar payenge.
+
+5 Window login ke update ko fix kar dia gaya hai site par load na ho isliye hamne pair aur window par strict rule lagayae hai ki aap only one pair login kar payenge aur total aap only 5 window login kar payenge yani 5 form.
+
+Yadi site par load hoga to irctc fir se apni security ko high kar degi jisse apko aur hame problem ka samna karna padega.
+
+HDFC_DC from ipay ko fix kar dia gaya hai aap users apna card tetsing karke hi booking form hdfc dc ipay se lagaye
+
+Kafi users ka kehna hai unka kaam slow sirf token ki wajah se ho raha hai ham unse bata de token tesla khud generate karta hai apko only 1-2 token hi generate karna hai baki ka sara kaam tesla ke server par hota hai.
+
+Fast booking ke liye aap se request hai fast gateway jaise E-Wallet ka istemal kare jiska result bahout fast hai.
+
+Regular version apk ko server par rakh dia gaya hai users download kar sakte hai aur token generate bhi kar sakte hai old koi bhi apk aap uninstall kar de aur jaha par token get karte hai waha par apk regular version par click kare aur apk download kar le.
+
+Adhar verified ID se aap only 12 ticket hi book kar sakte hai monthly 12 se jada ticket book karne ke liye irctc dwara yeh mandatory hai jis name par irctc id ki kyc verify hui hai wo passenger travel kare isliye apne irctc id ki monthly booking count jarur dekh len.
+
+Dhyan rakhe pehle token ko get kare tabhi open ticket se ticket open kare token aap jab chahe tab generate kar sakte hai bus itna dhyan rakhna hai ki token get karne ke baad aap software ko close na kare agar aapne ek baar token generate kar lia hai to aap bina software close kiye bhi ac and sleeper book kar sakte hai.
+
+Bina token generate ke aap login nahi kar payenge isliye apse request hai token generate kare aap 2-3 token bhi generate kar sakte hai but token generate karna mandatory hai tabhi aap app and sup login kar payenge.
+
+Bhim NPCI bypass ko sahi kar dia gaya hai aap users bypass kar sakte hai.
+
+***Users se request hai apni booking sucessfull Image aur screenshot kisi ko bhi galti se share na kare warna apke passenger ke journey me dikkat ho sakti hai aur ham us screenshot ki id ko turant delete kar denge isliye ham viniti karte hai ki aap please koi bhi screenshot kisi ko bhi share na kare.***
+
+E-WALLET option add kar dia gaya hai isse aap adhe seconds se kam me bhi payment kar sakte hai aapko add bank me jakar E-wallet me kuch bhi dal kar save kar dena hai aur fir irctc id select karni hai aur e-wallet select karke login kar dena hai dhyaan rahe hai wahi irctc id select kare jisme e-wallet active hai aur funds apne add kar diye hai.
+
+E-wallet se aap adhe seconds se bhi kam me payment kar sakte hai aur yeh sirf APP login me work karega filhal.
+
+Jo id Tesla databse me registred hai yani orignal id par hi token get and post hoga agar aap fake id server bypass istemal kar rahe hai to apka token get aur post nahi hoga.
+Apk aur software me token post aur get karne ke liye apki id orignal tesla id honi chaiyye registered and paid.
+
