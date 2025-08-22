@@ -4,6 +4,10 @@ Web Login Update kar dia gaya hai but iska sucess ratio kam hai akamai security 
 
 App login result 100% hai web logi 70% to aap pehla pair hamesha app login kare aur dusra web login agar ap chahe to kare ya na kare.
 
+Disha Login bhi update kar dia gaya hai but apse request hai disha login ke liye mobile apne pass hi rakhe.
+
+Web par puri tarah dependent na rahe pehle pair App login jarur kare.
+
 ***BHIM SBI UPI AND SBI INTERNET BANKING BYPASS SAHI KAR DIA GAYA HAI AAP YEH DONO BYPASS KAR SAKTE HAI AUR FAST GATEWAY KI TARAH AAP SBI NETBANKING ISTEMAL KAR SAKTE HAI***
 
 ***FREECHARGE AND AXIS BYPASS BANK DWARA BAND KIA GAYA HAI ISME HAM KOI UPDATE NAHI KAR SAKTE HAI JAB TAK BANK INHE DOBARA RESUME NA KARE ISLIYE AP USERS SE REQUEST HAI KI AAP IN DONO KE RELEATED KOI BHI MESSAGE NA KARE JAISE YEH RESUME HOGA HAM APKO NEWS SHARE KAR DENGE**
