@@ -1,3 +1,7 @@
+**BhimUpi Use na kare opening me issue hua hai IPAYUPI ka istemal kare**.
+
+**All users apne irctc id ko swarail/Railone app par register kar le aaj shaam ya raat tak apko railone login update dedia jayega**.
+
 Important Login Instructions
 
 App and super login only token se hi kare. Hamara token server maintenance par hai, isliye aapse request hai ki minimum 2 ya jitne aap easily tokens generate kar sakte hain, utne tokens generate karke hi login karein.
