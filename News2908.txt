@@ -14,6 +14,8 @@ Dhyan rahe: OTP sirf ek baar ka hoga. Uske baad aap direct login kar sakte hain 
 Important Note: Agar aapne software me RailOne login kar diya hai aur fir mobile me same ID se login karte hain, to software ka OTP expire ho jayega. Matlab mobile login ek bypass ki tarah kaam karega.
 Isliye software me login ke baad mobile se login na karein. Agar mobile se login kar liya to software me dobara login karte waqt OTP fir se dalna hoga.
 
+R_WALLET ko save karne ke liye aap kuch bhi ya irctc id dal kar save kar sakte hai koi value mandatory nahi hai.
+
 Ticket print aur PDF download normal IRCTC login ki tarah hi available rahenge.
 
 Filhal testing purpose ke liye users RailOne ki sirf ek hi window login kar payenge. Test complete hone ke baad full update release kar diya jayega.
