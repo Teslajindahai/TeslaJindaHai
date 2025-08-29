@@ -1,0 +1,28 @@
+Dear Users – Kripya News Dhyan Se Padhein
+
+RailOne login add kar diya gaya hai. Filhal RailOne login me aap sirf R-WALLET use kar payenge.
+Iska matlab hai ki pehle aapko apni IRCTC ID RailOne par register karni hogi aur R-WALLET me funds add karne honge, tabhi aap booking kar paayenge.
+Jaldi hi baki payment gateways bhi add kar diye jayenge.
+
+RailOne Login Use Karne ke Steps:
+
+Apni IRCTC ID save karein aur ensure karein ki wo RailOne par registered ho. Agar nahi hai to IRCTC ID ke through RailOne registration karke R-WALLET activate karein.
+
+First time login par aapke IRCTC ID se linked registered mobile par OTP aayega. OTP enter karke login karein.
+Dhyan rahe: OTP sirf ek baar ka hoga. Uske baad aap direct login kar sakte hain bina OTP ke.
+
+Important Note: Agar aapne software me RailOne login kar diya hai aur fir mobile me same ID se login karte hain, to software ka OTP expire ho jayega. Matlab mobile login ek bypass ki tarah kaam karega.
+Isliye software me login ke baad mobile se login na karein. Agar mobile se login kar liya to software me dobara login karte waqt OTP fir se dalna hoga.
+
+Ticket print aur PDF download normal IRCTC login ki tarah hi available rahenge.
+
+Filhal testing purpose ke liye users RailOne ki sirf ek hi window login kar payenge. Test complete hone ke baad full update release kar diya jayega.
+Baaki logins (App & SUP) pehle jaise hi work karenge.
+
+Jinko login me problem ho rahi hai unse request hai ki:
+
+Updated Token APK app use karein.
+
+Hamesha pehle token get karein.
+
+Jab token show ho jaye, tabhi ticket open karein aur login karein.
