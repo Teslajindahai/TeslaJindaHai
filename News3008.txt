@@ -1,5 +1,7 @@
 Dear Users – Kripya News Dhyan Se Padhein
 
+Mac Check on Hai if ek id do system par chalegi to software auto close ho jayega isliye dhyan rakhe ek id ko ek hi jagah use kare.
+
 RailOne Captcha issue 100% Solved!!..
 Login me jo logo ko Getting sensor data issue face ho raha tha use bhi permenently solved kar dia gaya hai ab bindass jaise chahe login kare.
 RailOne me R-Wallet se payment kar sakte hai Jaldi hi aur gateways Add Kiye jayenge.
