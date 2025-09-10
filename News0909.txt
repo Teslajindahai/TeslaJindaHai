@@ -22,4 +22,6 @@ Wohi number click/enter karo ? Verify.
 
 Galat aaye to Refresh karke repeat.
 
+Working Banks in RailOne:- E-Wallet , R-Wallet and RAILUPI (MANUAL & BYPASS).
+
 Normal app and Sup Login ke liye token generate kare aur kaam kare dhyan rakhe one at a time yani ek pair ek bar mekare ek ho jaye to hi dusra kare.
