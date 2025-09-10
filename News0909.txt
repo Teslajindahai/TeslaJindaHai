@@ -1,17 +1,25 @@
-Dear Users – Kripya News Dhyan Se Padhiye
+Dear Users – Kripya Dhyan Se Padhiye
 
-RailOne login me jo bugs the (Slot 1 aur Slot 2 par login na hone ka issue), unhe solve kar diya gaya hai. Ab aap RailOne login ka istemal kar sakte hain aur ek sath 5 windows aasani se login kar sakte hain.
+Update ke baad software me Data me jaye aur RailOne driver install kare and software ko restart kar le fir RailOne login kare agar koi error aaye to IRLOG folder hame send kare.
 
-Token file ko reset kiya gaya hai, isliye users se request hai ki naya token generate karke hi kaam karein taaki better results mil sakein.
+RailOne Login me ab Captcha Login option add kar diya gaya hai. Jab aap RailOne me login karenge, to aapko option show hoga.
+Agar aap Yes karte ho, to ek browser open hoga jisme aapko captcha solve karke verify karna hoga.
+Ye process ek hi baar karni hai – uske baad aapka login save ho jayega aur next time captcha bypass ho jayega.
+Isliye steps dhyan se padhe aur follow karein.
 
-Bhim Axis me jo balance check ka issue tha, use bhi fix kar diya gaya hai.
+Ab RailOne login me aap RAILUPI bhi use kar sakte ho.
+RAILUPI me aap apni bypassed UPI ko save karke directly ticket book kar paoge.
+Agar aap chahe to manual payment option bhi available hai.
+Steps to Solve RailOne Captcha:-
 
-Ab users ek form me 2 pair login kar paayenge. Matlab aap total App aur Sup login mila kar 6 windows login kar sakte hain. Aap chahe to 6 forms login karein ya har form me 2 pair login karein.
+Question wali image ko yaad karo.
 
-RailOne ke alag 5 windows aap easily login kar sakte hain.
+Right side ke tiles me exact same image dhoondo.
 
-Next update me RailOne OTP bypass kar diya jayega aur UPI payment option bhi add kar diya jayega.
+Jis tile me match mile, us tile ke upar likha number hi answer hai.
 
-Sleeper section me site ki security zyada hoti hai, isliye sleeper ke liye aap fresh IP ka use karein aur dhyaan rahe ki token hamesha acche phone se hi generate karein.
+Wohi number click/enter karo ? Verify.
 
-More features and updates are on the way – jaise Freecharge New Bypass aur Axis New Bypass.
+Galat aaye to Refresh karke repeat.
+
+Normal app and Sup Login ke liye token generate kare aur kaam kare dhyan rakhe one at a time yani ek pair ek bar mekare ek ho jaye to hi dusra kare.
