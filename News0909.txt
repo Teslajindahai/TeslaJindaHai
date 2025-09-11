@@ -1,5 +1,7 @@
 Dear Users – Kripya Dhyan Se Padhiye
 
+Bina Token generate ke bilkul bhi login na kare aur har form ka ek pair RailOne login jarur kare taki koi error na aaye RailOne me koi token ki jarurat nahi hai isliye ek pair railone jarur kare aur App and Sup ke liye mandatorily Token generate kare.
+
 Update ke baad software me Data me jaye aur RailOne driver install kare and software ko restart kar le fir RailOne login kare agar koi error aaye to IRLOG folder hame send kare.
 
 RailOne Login me ab Captcha Login option add kar diya gaya hai. Jab aap RailOne me login karenge, to aapko option show hoga.
