@@ -1,6 +1,6 @@
 Dear Users – Kripya Dhyan Se Padhiye
 
-Bina Token generate ke bilkul bhi login na kare aur har form ka ek pair RailOne login jarur kare taki koi error na aaye RailOne me koi token ki jarurat nahi hai isliye ek pair railone jarur kare aur App and Sup ke liye mandatorily Token generate kare.
+Bhim NPci Bypass issue ko fix kar dia gaya hai aur Pax Submit By jo issue tha usko bhi fix kar dia gaya hai yeh issue irctc ki taraf se tha isme software ka koi issue nahi hai hamne us cheez ko update kar dia hai.
 
 Update ke baad software me Data me jaye aur RailOne driver install kare and software ko restart kar le fir RailOne login kare agar koi error aaye to IRLOG folder hame send kare.
 
