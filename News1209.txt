@@ -1,4 +1,8 @@
-Dear Users – Kripya Dhyan Se Padhiye
+Bina token login mat karo.
+Har booking ke liye AC, Sleeper aur Opening token generate karke hi ticket open karo aur login karo.
+
+Token booking ke 10–15 minute pehle banayein.
+Bina token login ho sakta hai lekin Passenger aur Payment stage par fail ho jayega.
 
 Ab sirf 1 pair app login pehle jaise hi allow kiya gaya hai. Matlab:
 
