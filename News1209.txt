@@ -1,6 +1,6 @@
 Token Mandatory hai generate kare tabhi aap login kar sakte hai aur har form ka ek window RailOne login kare.
 
-Web Login ke liye chrome 133 version panel par diye hue url me availabale hai use download kare and apne Tesla ke folder me extract kar de aisa karne se apka Web login ho jayega.
+Web Login ke liye chrome 133 auto install ho jayega apke pc agar nahi install hota hai aur web login karne me koi issue hota hai to server se (JAHA PAR TESLA SETUP HAI ) chrome 133 download kare usko apne folder me extract kar de
 
 Web login ke liye jo steps show ho wohi step follow kare.
 
