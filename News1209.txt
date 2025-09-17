@@ -1,7 +1,13 @@
-Bina token login mat karo.
+Token Mandatory hai generate kare tabhi aap login kar sakte hai aur har form ka ek window RailOne login kare.
+
+Web Login ke liye chrome 133 version panel par diye hue url me availabale hai use download kare and apne Tesla ke folder me extract kar de aisa karne se apka Web login ho jayega.
+
+Web login ke liye jo steps show ho wohi step follow kare.
+
 Har booking ke liye AC, Sleeper aur Opening token generate karke hi ticket open karo aur login karo.
 
 Token booking ke 10–15 minute pehle banayein.
+
 Bina token login ho sakta hai lekin Passenger aur Payment stage par fail ho jayega.
 
 Ab sirf 1 pair app login pehle jaise hi allow kiya gaya hai. Matlab:
