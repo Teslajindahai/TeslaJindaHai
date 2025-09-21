@@ -1,52 +1,28 @@
+Password change and SYNC option Update all users chahe to password change kar le jisse booking me dikkat na ho.
+RailOne login me jo error the unhe fix kar dia gaya hai aba gar koi error hota hai to ap hame logs send kare.RailOne login ka istemal jada se jada kare iske liye bhi apko token ka jarurat padega to niche step dhyan se padeh.
+
+Token Get karne ke 2 tareeke:
+Normal APK (jo aap abhi use kar rahe ho)===> Agar Apka sab sahi work kar raha hai to dusre APK par na jaye.
+Dusra APK (jo “Get Token” form me link se download karna hoga)
+Agar aap Dusra APK use karna chahte ho:
+Pehle jo purana APK install kiya hai, use uninstall kar do.
+Naya APK install karo (jo Get Token link se milega).
+APK open karo aur apni TESLAX ID enter karo.
+Jab status “Connected” show ho jaye to fir apne pairs login karo.
+Sare PAIRS setup kar lo Tab APK open kare aur connect kare then login kar de.
+Important Settings (use karne se pehle):
+Display Timeout: Maximum kar do (taaki screen auto-off na ho aur connection band na ho).
+Battery Optimization: App Info me jaake battery optimization ko Unrestrict kar do.
+Connection ka Dhyan:
+Connect tabhi kare jab saare pairs login ke liye ready ho.
+Har 1 minute me APK auto disconnect aur reconnect karega.
+Agar status “Connected” dikh raha hai to hi Tesla me token generate hoga.Warna wo auto pichle generated token use karega.
+Jab tak booking complete na ho jaye apk ko open aur connected rakhe.
+
+
 Token Mandatory hai generate kare tabhi aap login kar sakte hai aur har form ka ek window RailOne login kare.
 
 Web Login ke liye chrome 133 auto install ho jayega apke pc agar nahi install hota hai aur web login karne me koi issue hota hai to server se (JAHA PAR TESLA SETUP HAI ) chrome 133 download kare usko apne folder me extract kar de
 
 Web login ke liye jo steps show ho wohi step follow kare.
 
-Har booking ke liye AC, Sleeper aur Opening token generate karke hi ticket open karo aur login karo.
-
-Token booking ke 10–15 minute pehle banayein.
-
-Bina token login ho sakta hai lekin Passenger aur Payment stage par fail ho jayega.
-
-Ab sirf 1 pair app login pehle jaise hi allow kiya gaya hai. Matlab:
-
-Ticket open karte time first pair hi App aur Super Login hoga.
-
-Baaki second pair ko aap chahe to RailOne login par use kar sakte ho.
-
-In baaton ka dhyan rakhein:
-
-Jyada se jyada booking normal PC se karein.
-
-AC aur Sleeper ke beech booking karte waqt internet ko airplane mode karke IP change kar lein.
-
-Ek IP par sirf ek hi form login karein.
-Bhim NPci Bypass issue ko fix kar dia gaya hai aur Pax Submit By jo issue tha usko bhi fix kar dia gaya hai yeh issue irctc ki taraf se tha isme software ka koi issue nahi hai hamne us cheez ko update kar dia hai.
-
-Update ke baad software me Data me jaye aur RailOne driver install kare and software ko restart kar le fir RailOne login kare agar koi error aaye to IRLOG folder hame send kare.
-
-RailOne Login me ab Captcha Login option add kar diya gaya hai. Jab aap RailOne me login karenge, to aapko option show hoga.
-Agar aap Yes karte ho, to ek browser open hoga jisme aapko captcha solve karke verify karna hoga.
-Ye process ek hi baar karni hai – uske baad aapka login save ho jayega aur next time captcha bypass ho jayega.
-Isliye steps dhyan se padhe aur follow karein.
-
-Ab RailOne login me aap RAILUPI bhi use kar sakte ho.
-RAILUPI me aap apni bypassed UPI ko save karke directly ticket book kar paoge.
-Agar aap chahe to manual payment option bhi available hai.
-Steps to Solve RailOne Captcha:-
-
-Question wali image ko yaad karo.
-
-Right side ke tiles me exact same image dhoondo.
-
-Jis tile me match mile, us tile ke upar likha number hi answer hai.
-
-Wohi number click/enter karo ? Verify.
-
-Galat aaye to Refresh karke repeat.
-
-Working Banks in RailOne:- E-Wallet , R-Wallet and RAILUPI (MANUAL & BYPASS).
-
-Normal app and Sup Login ke liye token generate kare aur kaam kare dhyan rakhe one at a time yani ek pair ek bar mekare ek ho jaye to hi dusra kare.
