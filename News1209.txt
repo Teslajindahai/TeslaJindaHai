@@ -1,3 +1,10 @@
+Very Important and High Alert Notice to All Users
+Agar aap OceanVPS use kar rahe hai to apna software usme se turant delete aur apna all ID ka password and bank password turant change kar le kyunki aapka all data OceanVPS easily access kar raha hai aur un data ko apne blackhat market par sell kar raha hai.
+
+Aapse nivedan hai ki aap OceanVPS bilkul buy na kare aur yadi aapne kar liya hai to usse apna software turant delete kar de aur all ID, bank, debit card sabke password change kar le.
+
+Kaafi users ka kehna hai unke WhatsApp jo galti se unhone OceanVPS par login kiya tha usse bhi kaafi data breaching hua hai. Please all users se request hai turant isko report karein aur dobara koi bhi user isko buy na kare.
+
 Password change and SYNC option Update all users chahe to password change kar le jisse booking me dikkat na ho.
 RailOne login me jo error the unhe fix kar dia gaya hai aba gar koi error hota hai to ap hame logs send kare.RailOne login ka istemal jada se jada kare iske liye bhi apko token ka jarurat padega to niche step dhyan se padeh.
 
